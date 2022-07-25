@@ -34,6 +34,9 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Dart](https://img.shields.io/badge/Android&#32;Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio/intro/)
+
+
 
 <p align="center"><img src="https://media1.giphy.com/media/yhs6b2Az6LfEpKth4H/giphy.gif?cid=6c09b95289d2db2747a33c0440efc4e0f0728f366efe12de&rid=giphy.gif&ct=s" height=220px width=230px>
 </p>
