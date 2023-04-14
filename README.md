@@ -33,7 +33,6 @@
 [![miro](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com)
 [![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![mui](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com)
-[![react](https://img.shields.io/badge/react-53C1DE?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
   
 ## communication  <img src="https://media.tenor.com/OVR3H017X1IAAAAi/talk-more-socialize.gif" width="50px">
   
