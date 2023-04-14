@@ -1,12 +1,11 @@
 <p align="center"><img src="https://i.postimg.cc/BQDRSvss/filename-2-1.png" width= 600px"></p>
-<p align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fcute-transparent-gif-10.gif&f=1&nofb=1" height=150px padding-top=600px>
+<p align="center"><img src="https://media1.giphy.com/media/swgqWX0yosuQg/200w.gif?cid=82a1493bbzmqy2zbk7l1egmayidz5te5w6wsdo5ikmksw190&rid=200w.gif&ct=s" height=150px padding-top=600px>
 </p>
 <p align="center"><a href="https://www.linkedin.com/in/katherine-perez-8171751a4/">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a> </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bkbeeperez%7D/count.svg" alt="visitor badge"/></p>
 
-## systems <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbestanimations.com%2FComputers%2Ffunny-computer-animated-gif-29.gif&f=1&nofb=1" width="30px">
+## systems <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbestanimations.com%2FComputers%2Ffunny-computer-animated-gif-29.gif&f=1&nofb=1" width="40px">
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -34,8 +33,9 @@
 [![miro](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com)
 [![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![mui](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com)
+[![react](https://img.shields.io/badge/react-53C1DE?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
   
-## communication  <img src="https://user-images.githubusercontent.com/78361775/204164758-22e1c8ab-f288-4da9-9db2-2aca8037952f.png" width="50px">
+## communication  <img src="https://media.tenor.com/OVR3H017X1IAAAAi/talk-more-socialize.gif" width="50px">
   
 [![slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com)
 [![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
@@ -52,5 +52,5 @@
 
 
 
-<p align="center"><img src="https://media1.giphy.com/media/yhs6b2Az6LfEpKth4H/giphy.gif?cid=6c09b95289d2db2747a33c0440efc4e0f0728f366efe12de&rid=giphy.gif&ct=s" height=220px width=230px>
+<p align="center"><img src="https://www.animatedimages.org/data/media/194/animated-fish-image-0354.gif">
 </p>
