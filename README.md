@@ -8,6 +8,7 @@
 ## systems <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbestanimations.com%2FComputers%2Ffunny-computer-animated-gif-29.gif&f=1&nofb=1" width="40px">
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Mac](https://img.shields.io/badge/Mac-grey?style=for-the-badge&logo=apple&logoColor=white)
 
 
 ## languages <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
@@ -33,6 +34,7 @@
 [![miro](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com)
 [![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![mui](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com)
+[![wireshark](https://img.shields.io/badge/wireshark-007FFF?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
   
 ## communication  <img src="https://media.tenor.com/OVR3H017X1IAAAAi/talk-more-socialize.gif" width="50px">
   
