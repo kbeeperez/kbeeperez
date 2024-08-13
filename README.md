@@ -51,7 +51,3 @@
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![andriod-studio](https://img.shields.io/badge/Android&#32;Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio/intro/)
 
-
-
-<p align="center"><img src="https://www.animatedimages.org/data/media/194/animated-fish-image-0354.gif">
-</p>
